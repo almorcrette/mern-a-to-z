@@ -2,6 +2,8 @@
 
 Learning about the MERN stack by developing a simple CRUD application from scratch.
 
+Following [the tutorial by LogRocket](https://blog.logrocket.com/mern-stack-tutorial/).
+
 ## Getting started
 
 - How to install it (what to clone, what to run to get all dependencies)
