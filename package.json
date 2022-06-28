@@ -1,0 +1,19 @@
+{
+  "name": "mern-stack-tutorial",
+  "version": "1.0.0",
+  "description": "LogRocket - MERN stack: a complete tutorial (https://blog.logrocket.com/mern-stack-tutorial/)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almorcrette/mern-a-to-z.git"
+  },
+  "author": "Alexis Morcrette",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/almorcrette/mern-a-to-z/issues"
+  },
+  "homepage": "https://github.com/almorcrette/mern-a-to-z#readme"
+}
